@@ -1,3 +1,3 @@
-aircraft.livery.init("Aircraft/F-18c/Models/Liveries");
+aircraft.livery.init("Aircraft/F-18C/Models/Liveries");
 
 
