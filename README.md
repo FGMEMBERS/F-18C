@@ -8,7 +8,14 @@ The McDonnell Douglas (now Boeing) F/A-18 Hornet is a twin-engine supersonic, al
 
 This Aircraft requires the FGUK weapons pack, available <a href="http://www.fgukmedia.co.uk/index.php/hangar/viewdownload/11-other-objects-and-vehicles/162-fguk-payloads-package">HERE</a>
 
- 
+V1.1
+-----
+
+* More refinement carried out on the FDM.
+* Includes the fix preventing the  liveries working on some OS versions.
+* Fixed the missing sound for the flaps.
+* Animation change - All flaps now behave like flaps.
+
 V1.0
 -----
 *First public release.*

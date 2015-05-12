@@ -543,8 +543,8 @@ if(navStillOn) {
  <animation>
   <type>rotate</type>
   <object-name>RightAileron</object-name>
-  <property>surface-positions/aileron-pos-norm</property>
-  <factor>-20</factor>
+  <property>surface-positions/flap-pos-norm</property>
+  <factor>55</factor>
   <axis>
    <x1-m>3.19261</x1-m>
    <y1-m>3.99233</y1-m>
@@ -558,8 +558,8 @@ if(navStillOn) {
   <type>rotate</type>
   <object-name>RightAileronTopUpside</object-name>
   <object-name>RightAileronTopDownside</object-name>
-  <property>surface-positions/aileron-pos-norm</property>
-  <factor>-10</factor>
+  <property>surface-positions/flap-pos-norm</property>
+  <factor>35</factor>
   <axis>
    <x1-m>3.19303</x1-m>
    <y1-m>3.99794</y1-m>
@@ -574,8 +574,8 @@ if(navStillOn) {
  <animation>
   <type>rotate</type>
   <object-name>LeftAileron</object-name>
-  <property>surface-positions/aileron-pos-norm</property>
-  <factor>20</factor>
+  <property>surface-positions/flap-pos-norm</property>
+  <factor>55</factor>
   <axis>
    <x1-m>3.41715</x1-m>
    <y1-m>-5.82127</y1-m>
@@ -589,8 +589,8 @@ if(navStillOn) {
   <type>rotate</type>
   <object-name>LeftAileronTopUpside</object-name>
   <object-name>LeftAileronTopDownside</object-name>
-  <property>surface-positions/aileron-pos-norm</property>
-  <factor>10</factor>
+  <property>surface-positions/flap-pos-norm</property>
+  <factor>35</factor>
   <axis>
    <x1-m>3.41793</x1-m>
    <y1-m>-5.82487</y1-m>
@@ -768,7 +768,7 @@ if(navStillOn) {
   <type>rotate</type>
   <object-name>RightStabilizer</object-name>
   <property>surface-positions/elevator-pos-norm</property>
-  <factor>25</factor>
+  <factor>20</factor>
   <center>
    <x-m>6.3299</x-m>
    <y-m>1.09</y-m>
@@ -785,7 +785,7 @@ if(navStillOn) {
   <type>rotate</type>
   <object-name>RightStabilizer</object-name>
   <property>surface-positions/aileron-pos-norm</property>
-  <factor>-25</factor>
+  <factor>-20</factor>
   <center>
    <x-m>6.3299</x-m>
    <y-m>1.09</y-m>
@@ -802,7 +802,7 @@ if(navStillOn) {
   <type>rotate</type>
   <object-name>LeftStabilizer</object-name>
   <property>surface-positions/elevator-pos-norm</property>
-  <factor>25</factor>
+  <factor>20</factor>
   <center>
    <x-m>6.3299</x-m>
    <y-m>1.09</y-m>
@@ -819,7 +819,7 @@ if(navStillOn) {
   <type>rotate</type>
   <object-name>LeftStabilizer</object-name>
   <property>surface-positions/aileron-pos-norm</property>
-  <factor>25</factor>
+  <factor>20</factor>
   <center>
    <x-m>6.3299</x-m>
    <y-m>1.09</y-m>

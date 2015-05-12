@@ -606,15 +606,7 @@
       </pitch>
     </squeal>
 
-    <flap>
-      <name>flaps</name>
-      <mode>in-transit</mode>
-      <path>Sounds/flaps.wav</path>
-      <property>/surface-positions/left-flap-pos-norm</property>
-      <volume>
-        <factor>0.15</factor>
-      </volume>
-    </flap>
+    
 
     <flap>
       <name>flaps</name>
